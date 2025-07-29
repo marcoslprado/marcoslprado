@@ -1,6 +1,5 @@
 <h1 align="center">Marcos Prado | Desenvolvedor Full Stack</h1>
 
----
 
 ### 🧑‍💻 Sobre mim
 
