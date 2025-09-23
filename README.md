@@ -19,9 +19,6 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender mais e 
 
 ### Projetos em destaque
 
-- 💻 **Gesh (PHP e React Native)**: Aplicação **full-stack** desenvolvida para o gerenciamento e controle de computadores de uma organização. 
-  🔗 [Ver projeto](https://github.com/marcoslprado)
-
 - 💵 **Nexa (Go e React)**: Aplicação **full-stack** para gerenciamento financeiro pessoal (despesas, ganhos, gráficos, orçamentos por categorias de gastos, etc). 
   🔗 [Ver backend](https://github.com/Nexa-Money/nexa_backend)
   🔗 [Ver frontend](https://github.com/Nexa-Money/nexa_frontend)
@@ -39,6 +36,8 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender mais e 
 
 - ✈️ **Top Gun Website (HTML, CSS, JS e Bootstrap)**: Website sobre Top Gun utilizando componentes do bootstrap.
   🔗 [Ver projeto](https://github.com/marcoslprado/top-gun-website)
+
+- 💻 **Gesh (PHP, Laravel, PostgreSQL e React Native)**: Aplicação **full-stack** desenvolvida para o gerenciamento e controle de computadores de uma organização. 
 
 
 ---
